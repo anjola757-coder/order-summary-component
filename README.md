@@ -39,7 +39,7 @@ Users should be able to:
 - Flexbox
 
 ### What I learned
-I learnt how to use flexb0x, displays, position, height and width properties for resposniveness and also the <div> element for structure and neat styling.
+I learnt how to use flexbox, displays, position, height and width properties for resposniveness and also the div element for structure and neat styling.
 
 ### Continued development
   I want to keep practicing my use of flexbox and the properties that work with it.
