@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/order-summary-component-zM7Es9ZI2P)
+- Live Site URL: [Add live site URL here](https://dreamy-conkies-4d6f08.netlify.app/)
 
 ## My process
 
@@ -39,7 +39,7 @@ Users should be able to:
 - Flexbox
 
 ### What I learned
-I learnt how to use flexbox, displays, position, height and width properties for resposniveness and also the div element for structure and neat styling.
+I learnt how to use flexbx, displays, position, height and width properties for resposniveness and also the div element for structure and neat styling.
 
 ### Continued development
   I want to keep practicing my use of flexbox and the properties that work with it.
